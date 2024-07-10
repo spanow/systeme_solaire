@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/systeme_solaire.dir/src/main.cpp.o CMakeFiles/systeme_solaire.dir/src/Planet.cpp.o CMakeFiles/systeme_solaire.dir/src/Camera.cpp.o  -o systeme_solaire  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libGLEW.so -lglfw /usr/lib/x86_64-linux-gnu/libglut.so -lSOIL 

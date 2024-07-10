@@ -1,0 +1,3 @@
+/home/peykassos/systeme_solaire/build/CMakeFiles/rebuild_cache.dir
+/home/peykassos/systeme_solaire/build/CMakeFiles/edit_cache.dir
+/home/peykassos/systeme_solaire/build/CMakeFiles/systeme_solaire.dir
